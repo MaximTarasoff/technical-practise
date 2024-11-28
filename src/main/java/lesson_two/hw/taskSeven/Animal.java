@@ -1,4 +1,4 @@
-package lesson_two.hw.taskSix;
+package lesson_two.hw.taskSeven;
 
 public class Animal {
     private String name;
